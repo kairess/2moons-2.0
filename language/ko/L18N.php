@@ -26,7 +26,7 @@ $LNG['php_timeformat']	= 'H:i:s';
 $LNG['php_dateformat']	= 'Y년 M d일';
 $LNG['php_tdformat']	= 'Y년 M d일 H:i:s';
 $LNG['short_day']		= '일';
-$LNG['short_hour']		= '시';
+$LNG['short_hour']		= '시간';
 $LNG['short_minute']	= '분';
 $LNG['short_second']	= '초';
 
