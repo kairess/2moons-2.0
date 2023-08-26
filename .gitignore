@@ -1,3 +1,5 @@
+.DS_Store
+includes/FIRST_INSTALL
 includes/config.php
 includes/error.log
 cache/*
